@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net6.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <AssemblyName>MongoDBLinqExtensions</AssemblyName>
+        <PackageId>MongoDBLinqExtensions</PackageId>
+        <GeneratePackageOnBuild>False</GeneratePackageOnBuild>
+        <Version>2023.5.13.0</Version>
+        <AssemblyVersion>$(Version)</AssemblyVersion>
+        <FileVersion>$(Version)</FileVersion>
+        <Description>MongoDB C# Driver extensions (Join, Hierarchy, Save). MIT License</Description>
+        <Authors>Denis Balashov</Authors>
+        <RepositoryUrl>https://github.com/DBalashov/MongoDBLinqExtensions</RepositoryUrl>
+        <Copyright>Denis Balashov</Copyright>
+        <PackageTags>c#, mongodb, join, linq, api</PackageTags>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="MongoDB.Driver" Version="2.19.1" />
+    </ItemGroup>
+</Project>

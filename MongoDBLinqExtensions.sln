@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoDBLinqExtensions", "MongoDBLinqExtensions\MongoDBLinqExtensions.csproj", "{75E2FDC0-51DF-4BC6-B2DB-304F7C5896DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApp", "TestApp\TestApp.csproj", "{691C9071-0317-4A05-949E-7B925B892E46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoDBLinqExtensions.Tests", "MongoDBLinqExtensions.Tests\MongoDBLinqExtensions.Tests.csproj", "{393D5C5F-BC7D-4AEE-8309-1E9A79EEA3E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75E2FDC0-51DF-4BC6-B2DB-304F7C5896DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75E2FDC0-51DF-4BC6-B2DB-304F7C5896DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75E2FDC0-51DF-4BC6-B2DB-304F7C5896DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75E2FDC0-51DF-4BC6-B2DB-304F7C5896DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{691C9071-0317-4A05-949E-7B925B892E46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{691C9071-0317-4A05-949E-7B925B892E46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{691C9071-0317-4A05-949E-7B925B892E46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{691C9071-0317-4A05-949E-7B925B892E46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{393D5C5F-BC7D-4AEE-8309-1E9A79EEA3E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{393D5C5F-BC7D-4AEE-8309-1E9A79EEA3E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{393D5C5F-BC7D-4AEE-8309-1E9A79EEA3E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{393D5C5F-BC7D-4AEE-8309-1E9A79EEA3E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
