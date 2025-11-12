@@ -7,7 +7,7 @@
         <AssemblyName>MongoDBLinqExtensions</AssemblyName>
         <PackageId>MongoDBLinqExtensions</PackageId>
         <GeneratePackageOnBuild>False</GeneratePackageOnBuild>
-        <Version>2024.12.4.0</Version>
+        <Version>2025.11.12.0</Version>
         <AssemblyVersion>$(Version)</AssemblyVersion>
         <FileVersion>$(Version)</FileVersion>
         <Description>MongoDB C# Driver extensions (Join, Hierarchy, Save). MIT License</Description>
